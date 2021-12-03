@@ -1,2 +1,1 @@
-# Face-Recognition
-Ineuron technologies
+# FACE-RECOGNITION
